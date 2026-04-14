@@ -49,7 +49,7 @@ Browse the currently available animations by category below. Clicking on any pro
 - [Ripple Click](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/hover-effects/ripple-click)
 
 ### 🖼️ Borders
-- [Border Draw Box](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/borders/border-draw-box)
+- [Border Draw Box](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/borders/border-draw-box) ([▶️ Preview](https://youtube.com/shorts/R3vf1SkcSrk?si=pdb3ikZu3a-uAaZi))
 - [Neon Glow Border](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/borders/neon-glow-border)
 - [Marching Dashed Border](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/borders/marching-dashed-border)
 
