@@ -92,17 +92,6 @@ These animations can be easily adapted and layered into your existing projects. 
 - **Hero sections** or backgrounds for marketing pages
 - **Learning reference** on how CSS keyframes, transitions, and transforms work
 
-## Contributing
-
-We welcome contributions! If you have a cool, minimal CSS animation you'd like to add:
-
-1. Fork the repository
-2. Create a new folder under the appropriate category (`your-animation-name`)
-3. Add your `index.html`, `style.css`, and a `README.md`
-4. Update this main `README.md` to link to your project
-5. Submit a pull request!
-
-Please ensure your animations depend solely on standard HTML/CSS. If minor JS is required, try to keep it as light as possible.
 
 ## License
 
