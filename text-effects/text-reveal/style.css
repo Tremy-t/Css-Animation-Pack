@@ -1,0 +1,81 @@
+:root {
+  --bg-color: #171717;
+  --primary-color: #f43f5e;
+  --primary-rgb: 244, 63, 94;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: var(--bg-color);
+  font-family: system-ui, sans-serif;
+}
+
+.reveal-wrapper {
+  position: relative;
+  display: inline-block;
+  padding: 0 10px;
+}
+
+.reveal-text {
+  margin: 0;
+  font-size: 5rem;
+  font-weight: 800;
+  color: #fff;
+  opacity: 0;
+  animation: showText 3s infinite;
+}
+
+.reveal-block {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: var(--primary-color);
+  transform: scaleX(0);
+  transform-origin: left;
+  animation: slideBlock 3s cubic-bezier(0.77, 0, 0.175, 1) infinite;
+}
+
+@keyframes slideBlock {
+  0% { 
+    transform: scaleX(0); 
+    transform-origin: left; 
+  }
+  25% { 
+    transform: scaleX(1); 
+    transform-origin: left; 
+  }
+  25.1% { 
+    transform: scaleX(1); 
+    transform-origin: right; 
+  }
+  50% { 
+    transform: scaleX(0); 
+    transform-origin: right; 
+  }
+  100% { 
+    transform: scaleX(0); 
+    transform-origin: right; 
+  }
+}
+
+@keyframes showText {
+  0%, 25% { 
+    opacity: 0; 
+  }
+  25.1%, 75% { 
+    opacity: 1; 
+  }
+  75.1%, 100% {
+    opacity: 0;
+  }
+}

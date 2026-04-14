@@ -1,0 +1,78 @@
+:root {
+  --bg-color: #020617;
+  --primary-color: #06b6d4;
+  --primary-rgb: 6, 182, 212;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: var(--bg-color);
+  font-family: system-ui, sans-serif;
+}
+
+.scroll-container {
+  width: 320px;
+  height: 120px;
+  overflow: hidden;
+  position: relative;
+}
+
+/* Optional fading edges */
+.scroll-container::before,
+.scroll-container::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  width: 40px;
+  height: 100%;
+  z-index: 2;
+}
+
+.scroll-container::before {
+  left: 0;
+  background: linear-gradient(to right, var(--bg-color), transparent);
+}
+
+.scroll-container::after {
+  right: 0;
+  background: linear-gradient(to left, var(--bg-color), transparent);
+}
+
+.scroll-track {
+  display: flex;
+  gap: 15px;
+  width: max-content;
+  /* (8 cards * 80px) + (8 gaps * 15px) */
+  animation: scrollX 5s linear infinite;
+}
+
+.card {
+  width: 80px;
+  height: 120px;
+  background: rgba(var(--primary-rgb), 0.05);
+  border: 2px solid var(--primary-color);
+  border-radius: 8px;
+  flex-shrink: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--primary-color);
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+@keyframes scrollX {
+  0% { transform: translateX(0); }
+  100% { 
+    /* Translate half the total width (4 cards + 4 gaps) = 4 * (80+15) = 380px */
+    transform: translateX(-380px); 
+  }
+}

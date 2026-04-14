@@ -1,0 +1,36 @@
+:root {
+  --bg-color: #0f172a;
+  --primary-color: #8b5cf6;
+  --primary-rgb: 139, 92, 246;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: var(--bg-color);
+}
+
+.shadow-box {
+  width: 140px;
+  height: 140px;
+  background-color: var(--bg-color);
+  border: 1px solid rgba(var(--primary-rgb), 0.2);
+  border-radius: 20px;
+  animation: shadowSwap 6s ease-in-out infinite alternate;
+}
+
+@keyframes shadowSwap {
+  0% {
+    box-shadow: -25px 25px 35px rgba(var(--primary-rgb), 0.4);
+  }
+  100% {
+    box-shadow: 25px -25px 35px rgba(var(--primary-rgb), 0.4);
+  }
+}

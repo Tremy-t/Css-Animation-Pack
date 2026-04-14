@@ -1,0 +1,80 @@
+:root {
+  --bg-color: #18181b;
+  --primary-color: #d946ef;
+  --primary-rgb: 217, 70, 239;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: var(--bg-color);
+}
+
+.skeleton-card {
+  width: 320px;
+  padding: 24px;
+  background: rgba(var(--primary-rgb), 0.05);
+  border: 1px solid rgba(var(--primary-rgb), 0.1);
+  border-radius: 16px;
+  display: flex;
+  gap: 20px;
+}
+
+.skeleton-avatar {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.skeleton-content {
+  width: 100%;
+}
+
+.skeleton-title {
+  width: 60%;
+  height: 16px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  margin-top: 6px;
+}
+
+.skeleton-line {
+  width: 100%;
+  height: 12px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.skeleton-line.short {
+  width: 75%;
+}
+
+.shimmer {
+  background-color: rgba(255, 255, 255, 0.05);
+  background-image: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0) 0,
+    rgba(var(--primary-rgb), 0.1) 40px,
+    rgba(255, 255, 255, 0) 80px
+  );
+  background-size: 200vw 100%;
+  background-repeat: no-repeat;
+  animation: shimmerAnim 1.5s infinite linear;
+}
+
+@keyframes shimmerAnim {
+  0% {
+    background-position: -200px 0;
+  }
+  100% {
+    background-position: calc(320px + 200px) 0;
+  }
+}

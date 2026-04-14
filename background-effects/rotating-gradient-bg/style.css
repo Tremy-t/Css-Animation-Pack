@@ -1,0 +1,58 @@
+:root {
+  --bg-color: #020617;
+  --primary-color: #06b6d4;
+  --primary-rgb: 6, 182, 212;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  /* Dark theme primary colors animated */
+  background: linear-gradient(
+    -45deg, 
+    var(--bg-color), 
+    #0a2f17, 
+    #145b2e, 
+    var(--primary-color), 
+    #0a2f17
+  );
+  background-size: 400% 400%;
+  animation: gradientRotate 12s ease infinite;
+  font-family: system-ui, sans-serif;
+  color: #fff;
+}
+
+.content {
+  background: rgba(2, 6, 23, 0.6);
+  padding: 40px 60px;
+  border-radius: 12px;
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(var(--primary-rgb), 0.4);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+.content h1 {
+  margin: 0;
+  font-size: 3rem;
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+
+@keyframes gradientRotate {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}

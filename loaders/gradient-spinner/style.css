@@ -1,0 +1,52 @@
+:root {
+  --bg-color: #2e1065;
+  --primary-color: #f59e0b;
+  --primary-rgb: 245, 158, 11;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: var(--bg-color);
+  font-family: system-ui, sans-serif;
+}
+
+.gradient-spinner {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: conic-gradient(from 0deg, transparent 0%, rgba(var(--primary-rgb), 0.2) 40%, var(--primary-color) 100%);
+  animation: spin 1s linear infinite;
+  
+  /* Create the ring cutout */
+  -webkit-mask: radial-gradient(circle, transparent 55%, black 56%);
+  mask: radial-gradient(circle, transparent 55%, black 56%);
+  
+  /* Add a subtle glow */
+  filter: drop-shadow(0 0 8px rgba(var(--primary-rgb), 0.4));
+}
+
+.gradient-spinner::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 10px;
+  height: 10px;
+  background-color: var(--primary-color);
+  border-radius: 50%;
+  transform: translateX(-50%);
+  box-shadow: 0 0 10px 2px rgba(var(--primary-rgb), 0.8);
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

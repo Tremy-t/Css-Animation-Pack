@@ -1,0 +1,109 @@
+# CSS Micro Animations
+
+A growing collection of clean, minimal HTML and CSS animations for modern UI, learning, and short-form content.
+
+## Overview
+
+This repository contains a curated pack of fully functional, dependency-free CSS animations. Each project is contained within its own directory and includes everything you need to run the animation immediately: an `index.html` structure and a `style.css` file.
+
+These micro-animations are perfect for bringing your user interface to life—whether you need a sleek loading spinner, a subtle hover effect, or a dynamic background.
+
+## Project Structure
+
+The animations have been thoughtfully categorized into a logical directory structure to make finding what you need simple:
+
+```
+css-animation-shorts-pack/
+├── 3d-effects/
+├── background-effects/
+├── borders/
+├── hover-effects/
+├── loaders/
+├── minimal-effects/
+├── text-effects/
+└── ui-elements/
+```
+
+Inside each category folder, you will find individual projects, each meticulously styled and documented.
+
+## Browse Animations
+
+Browse the currently available animations by category below. Clicking on any project will take you directly to its source code.
+
+### 🔄 Loaders
+- [Infinity Loader](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/infinity-loader)
+- [Liquid Blob Loader](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/liquid-blob-loader)
+- [Chasing Dots](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/chasing-dots)
+- [Gradient Spinner](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/gradient-spinner)
+- [Equalizer Bars](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/equalizer-bars)
+
+### 📝 Text Effects
+- [Gradient Text Flow](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/text-effects/gradient-text-flow)
+- [Glitch Text](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/text-effects/glitch-text)
+- [Letter Wave](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/text-effects/letter-wave)
+- [Text Reveal](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/text-effects/text-reveal)
+
+### 🖱️ Hover Effects
+- [Button Fill Sweep](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/hover-effects/button-fill-sweep)
+- [Menu Icon Morph](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/hover-effects/menu-icon-morph)
+- [Ripple Click](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/hover-effects/ripple-click)
+
+### 🖼️ Borders
+- [Border Draw Box](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/borders/border-draw-box)
+- [Neon Glow Border](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/borders/neon-glow-border)
+- [Marching Dashed Border](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/borders/marching-dashed-border)
+
+### 🧊 3D Effects
+- [Css 3d Cube](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/3d-effects/css-3d-cube)
+- [Floating Card Stack](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/3d-effects/floating-card-stack)
+- [Flip Card](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/3d-effects/flip-card)
+
+### 🌌 Background Effects
+- [Rotating Gradient Bg](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/background-effects/rotating-gradient-bg)
+- [Css Parallax](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/background-effects/css-parallax)
+- [Perspective Grid](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/background-effects/perspective-grid)
+- [Infinite Scroll Cards](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/background-effects/infinite-scroll-cards)
+
+### 🎛️ UI Elements
+- [Fancy Toggle](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/ui-elements/fancy-toggle)
+- [Skeleton Loader](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/ui-elements/skeleton-loader)
+
+### ✨ Minimal Effects
+- [Breathing Dot](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/minimal-effects/breathing-dot)
+- [Glass Orb](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/minimal-effects/glass-orb)
+- [Shadow Movement](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/minimal-effects/shadow-movement)
+
+## Getting Started
+
+Using these animations in your own projects is incredibly simple:
+
+1. Clone or download this repository.
+2. Navigate to the specific animation folder you are interested in (e.g., `loaders/infinity-loader`).
+3. Open `index.html` in your favorite web browser to preview it instantly.
+4. Copy the relevant HTML and CSS into your project!
+
+No need to install npm packages, Webpack, or complicated build tools. These are pure, vanilla web technologies.
+
+## Use Cases
+
+These animations can be easily adapted and layered into your existing projects. Consider using them for:
+- **Loading states** for API requests or heavy content
+- **Micro-interactions** like buttons or form inputs to increase user engagement
+- **Hero sections** or backgrounds for marketing pages
+- **Learning reference** on how CSS keyframes, transitions, and transforms work
+
+## Contributing
+
+We welcome contributions! If you have a cool, minimal CSS animation you'd like to add:
+
+1. Fork the repository
+2. Create a new folder under the appropriate category (`your-animation-name`)
+3. Add your `index.html`, `style.css`, and a `README.md`
+4. Update this main `README.md` to link to your project
+5. Submit a pull request!
+
+Please ensure your animations depend solely on standard HTML/CSS. If minor JS is required, try to keep it as light as possible.
+
+## License
+
+This project is open-source and available under the terms of the MIT License. Feel free to use these animations in your personal and commercial projects!

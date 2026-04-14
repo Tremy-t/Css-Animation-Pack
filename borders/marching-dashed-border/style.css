@@ -1,0 +1,59 @@
+:root {
+  --bg-color: #18181b;
+  --primary-color: #d946ef;
+  --primary-rgb: 217, 70, 239;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: var(--bg-color);
+  font-family: system-ui, sans-serif;
+}
+
+.marching-container {
+  position: relative;
+  width: 240px;
+  height: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.marching-container svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.marching-container rect {
+  fill: rgba(var(--primary-rgb), 0.05);
+  stroke: var(--primary-color);
+  stroke-width: 4;
+  stroke-dasharray: 12 12;
+  animation: march 1s linear infinite;
+  rx: 8;
+  ry: 8;
+}
+
+.content {
+  color: var(--primary-color);
+  font-size: 1.2rem;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+
+@keyframes march {
+  to {
+    stroke-dashoffset: -24;
+  }
+}
