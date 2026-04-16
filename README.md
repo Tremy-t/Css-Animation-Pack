@@ -44,7 +44,7 @@ Browse the currently available animations by category below. Clicking on any pro
 - [Text Reveal](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/text-effects/text-reveal)
 
 ### 🖱️ Hover Effects
-- [Button Fill Sweep](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/hover-effects/button-fill-sweep)
+- [Button Fill Sweep](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/hover-effects/button-fill-sweep)  ([▶️ Preview](https://youtube.com/shorts/KOt4ufVifIo?si=uPDociZEFxMpTmmK))
 - [Menu Icon Morph](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/hover-effects/menu-icon-morph)
 - [Ripple Click](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/hover-effects/ripple-click)
 
