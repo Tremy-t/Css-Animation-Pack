@@ -2,7 +2,7 @@
 
 A beautiful CSS micro-animation project: **Button Fill Sweep**.
 
-## Preview
+# Preview
 
 [![Button Fill Sweep Preview](https://img.youtube.com/vi/KOt4ufVifIo/0.jpg)](https://youtube.com/shorts/KOt4ufVifIo?si=bnC9H6Hdug-aDGQE)
 

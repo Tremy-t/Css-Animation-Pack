@@ -2,6 +2,12 @@
 
 A beautiful CSS micro-animation project: **Css 3D Cube**.
 
+# Preview
+
+[![Css 3D Cube Preview](https://img.youtube.com/vi/      )](https://youtube.com/shorts/     )
+
+*(Click the image to view the YouTube Short)*
+
 ## Structure
 - `index.html`: The HTML structure.
 - `style.css`: The CSS styling and animation logic.
