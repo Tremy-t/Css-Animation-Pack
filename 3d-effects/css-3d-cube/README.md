@@ -4,7 +4,7 @@ A beautiful CSS micro-animation project: **Css 3D Cube**.
 
 # Preview
 
-[![Css 3D Cube Preview](https://img.youtube.com/vi/      )](https://youtube.com/shorts/     )
+[![Css 3D Cube Preview](https://img.youtube.com/vi/yRq8YKkgAa4/0.jpg)](https://youtube.com/shorts/yRq8YKkgAa4?si=ODKefe1gYU6EZhup)
 
 *(Click the image to view the YouTube Short)*
 
