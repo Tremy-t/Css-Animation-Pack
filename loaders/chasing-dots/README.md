@@ -4,7 +4,7 @@ A beautiful CSS micro-animation project: **Chasing Dots**.
 
 # Preview
 
-[![Chasing Dots Preview](https://img.youtube.com/vi/      )](https://youtube.com/shorts/     )
+[![Chasing Dots Preview](https://img.youtube.com/vi/SPjLXQg8DT0/0.jpg)](https://youtube.com/shorts/SPjLXQg8DT0?si=B6Ev-2pVEOm1CgwZ)
 
 *(Click the image to view the YouTube Short)*
 

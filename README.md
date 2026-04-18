@@ -33,7 +33,7 @@ Browse the currently available animations by category below. Clicking on any pro
 ### 🔄 Loaders
 - [Infinity Loader](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/infinity-loader)
 - [Liquid Blob Loader](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/liquid-blob-loader)
-- [Chasing Dots](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/chasing-dots)
+- [Chasing Dots](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/chasing-dots) ([▶️ Preview](https://youtube.com/shorts/SPjLXQg8DT0?si=B6Ev-2pVEOm1CgwZ))
 - [Gradient Spinner](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/gradient-spinner)
 - [Equalizer Bars](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/equalizer-bars)
 
