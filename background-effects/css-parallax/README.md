@@ -4,7 +4,7 @@ A beautiful CSS micro-animation project: **Css Parallax**.
 
 # Preview
 
-[![Css Parallax Preview](https://img.youtube.com/vi/      )](https://youtube.com/shorts/     )
+[![Css Parallax Preview](https://img.youtube.com/vi/V3PZjhw5ey8/0.jpg)](https://youtube.com/shorts/V3PZjhw5ey8?si=8wrAjNexIvgxFj0e)
 
 *(Click the image to view the YouTube Short)*
 

@@ -60,7 +60,7 @@ Browse the currently available animations by category below. Clicking on any pro
 
 ### 🌌 Background Effects
 - [Rotating Gradient Bg](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/background-effects/rotating-gradient-bg)
-- [Css Parallax](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/background-effects/css-parallax)
+- [Css Parallax](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/background-effects/css-parallax)  ([▶️ Preview](https://youtube.com/shorts/V3PZjhw5ey8?si=8wrAjNexIvgxFj0e))
 - [Perspective Grid](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/background-effects/perspective-grid)
 - [Infinite Scroll Cards](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/background-effects/infinite-scroll-cards)
 
