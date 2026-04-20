@@ -56,7 +56,9 @@ Browse the currently available animations by category below. Clicking on any pro
 ### 🧊 3D Effects
 - [Css 3d Cube](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/3d-effects/css-3d-cube) ([▶️ Preview](https://youtube.com/shorts/yRq8YKkgAa4?si=ODKefe1gYU6EZhup))
 - [Floating Card Stack](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/3d-effects/floating-card-stack)
-- [Flip Card](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/3d-effects/flip-card)
+- [Flip Card](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/3d-effects/flip-card) 
+
+([▶️ Preview](https://youtube.com/shorts/jU1fujNpzHo?si=wqTOcM-LG7s1j70t))
 
 ### 🌌 Background Effects
 - [Rotating Gradient Bg](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/background-effects/rotating-gradient-bg)

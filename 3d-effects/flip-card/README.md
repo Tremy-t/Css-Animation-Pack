@@ -4,7 +4,7 @@ A beautiful CSS micro-animation project: **Flip Card**.
 
 # Preview
 
-[![Flip Card Preview](https://img.youtube.com/vi/      )](https://youtube.com/shorts/     )
+[![Flip Card Preview](https://img.youtube.com/vi/jU1fujNpzHo/0.jpg)](https://youtube.com/shorts/jU1fujNpzHo?si=wqTOcM-LG7s1j70t)
 
 *(Click the image to view the YouTube Short)*
 
