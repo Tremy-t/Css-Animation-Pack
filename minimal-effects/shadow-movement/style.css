@@ -1,7 +1,7 @@
 :root {
-  --bg-color: #0f172a;
-  --primary-color: #8b5cf6;
-  --primary-rgb: 139, 92, 246;
+  --bg-color: #000000;
+  --primary-color: #6fffff;
+  --primary-rgb: 111, 255, 255;
 }
 
 * {
@@ -30,6 +30,7 @@ body {
   0% {
     box-shadow: -25px 25px 35px rgba(var(--primary-rgb), 0.4);
   }
+
   100% {
     box-shadow: 25px -25px 35px rgba(var(--primary-rgb), 0.4);
   }

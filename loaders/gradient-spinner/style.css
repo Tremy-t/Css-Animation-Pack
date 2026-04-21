@@ -1,5 +1,5 @@
 :root {
-  --bg-color: #2e1065;
+  --bg-color: black;
   --primary-color: #f59e0b;
   --primary-rgb: 245, 158, 11;
 }
@@ -24,11 +24,11 @@ body {
   border-radius: 50%;
   background: conic-gradient(from 0deg, transparent 0%, rgba(var(--primary-rgb), 0.2) 40%, var(--primary-color) 100%);
   animation: spin 1s linear infinite;
-  
+
   /* Create the ring cutout */
   -webkit-mask: radial-gradient(circle, transparent 55%, black 56%);
   mask: radial-gradient(circle, transparent 55%, black 56%);
-  
+
   /* Add a subtle glow */
   filter: drop-shadow(0 0 8px rgba(var(--primary-rgb), 0.4));
 }
@@ -47,6 +47,11 @@ body {
 }
 
 @keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
 }
