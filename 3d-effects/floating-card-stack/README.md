@@ -4,7 +4,7 @@ A beautiful CSS micro-animation project: **Floating Card Stack**.
 
 # Preview
 
-[![Floating Card Stack Preview](https://img.youtube.com/vi/16q5BjwPSDE)](https://youtube.com/shorts/16q5BjwPSDE?si=VdvXgwD-JXMSpPgj)
+[![Floating Card Stack Preview](https://img.youtube.com/vi/16q5BjwPSDE/hqdefault.jpg)](https://youtube.com/shorts/16q5BjwPSDE?si=VdvXgwD-JXMSpPgj)
 
 *(Click the image to view the YouTube Short)*
 
