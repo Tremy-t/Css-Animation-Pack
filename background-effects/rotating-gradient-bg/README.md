@@ -4,7 +4,7 @@ A beautiful CSS micro-animation project: **Rotating Gradient Bg**.
 
 # Preview
 
-[![Rotating Gradient Bg Preview](https://img.youtube.com/vi/      )](https://youtube.com/shorts/     )
+[![Rotating Gradient Bg Preview](https://img.youtube.com/vi/rHms6JaGOv0/hqdefault.jpg)](https://youtube.com/shorts/rHms6JaGOv0?si=Gy9IeQf_q1rUjX5r     )
 
 *(Click the image to view the YouTube Short)*
 
