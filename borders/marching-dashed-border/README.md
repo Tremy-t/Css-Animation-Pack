@@ -4,7 +4,7 @@ A beautiful CSS micro-animation project: **Marching Dashed Border**.
 
 # Preview
 
-[![Marching Dashed Border Preview](https://img.youtube.com/vi/eDTht5qfsc/hqdefault.jpg)](https://youtube.com/shorts/heDTht5qfsc?si=q2BavpBAEVUmbpRI)
+[![Marching Dashed Border Preview](https://img.youtube.com/vi/heDTht5qfsc/hqdefault.jpg)](https://youtube.com/shorts/heDTht5qfsc?si=q2BavpBAEVUmbpRI)
 
 *(Click the image to view the YouTube Short)*
 
