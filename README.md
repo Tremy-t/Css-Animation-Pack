@@ -51,7 +51,7 @@ Browse the currently available animations by category below. Clicking on any pro
 ### 🖼️ Borders
 - [Border Draw Box](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/borders/border-draw-box) ([▶️ Preview](https://youtube.com/shorts/R3vf1SkcSrk?si=pdb3ikZu3a-uAaZi))
 - [Neon Glow Border](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/borders/neon-glow-border) ([▶️ Preview](https://youtube.com/shorts/UQGVoMhtzUc?si=CLF89JJPbEy5Esf1))
-- [Marching Dashed Border](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/borders/marching-dashed-border)
+- [Marching Dashed Border](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/borders/marching-dashed-border) ([▶️ Preview](https://youtube.com/shorts/heDTht5qfsc?si=q2BavpBAEVUmbpRI))
 
 ### 🧊 3D Effects
 - [Css 3d Cube](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/3d-effects/css-3d-cube) ([▶️ Preview](https://youtube.com/shorts/yRq8YKkgAa4?si=ODKefe1gYU6EZhup))
