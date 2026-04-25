@@ -4,7 +4,7 @@ A beautiful CSS micro-animation project: **Neon Glow Border**.
 
 # Preview
 
-[![Neon Glow Border Preview](https://img.youtube.com/vi/      )](https://youtube.com/shorts/     )
+[![Neon Glow Border Preview](https://img.youtube.com/vi/UQGVoMhtzUc/0.jpg)](https://youtube.com/shorts/https://youtube.com/shorts/UQGVoMhtzUc?si=CLF89JJPbEy5Esf1)
 
 *(Click the image to view the YouTube Short)*
 
