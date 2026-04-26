@@ -4,7 +4,7 @@ A beautiful CSS micro-animation project: **Ripple Click**.
 
 # Preview
 
-[![Ripple Click Preview](https://img.youtube.com/vi/      )](https://youtube.com/shorts/     )
+[![Ripple Click Preview](https://img.youtube.com/vi/nDtzLSVK9iY/hqdefault.jpg)](https://youtube.com/shorts/nDtzLSVK9iY?si=K-XU3zO4XgjjUYah)
 
 *(Click the image to view the YouTube Short)*
 
