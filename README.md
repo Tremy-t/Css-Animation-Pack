@@ -35,7 +35,7 @@ Browse the currently available animations by category below. Clicking on any pro
 - [Liquid Blob Loader](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/liquid-blob-loader)
 - [Chasing Dots](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/chasing-dots) ([▶️ Preview](https://youtube.com/shorts/SPjLXQg8DT0?si=B6Ev-2pVEOm1CgwZ))
 - [Gradient Spinner](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/gradient-spinner)
-- [Equalizer Bars](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/equalizer-bars)
+- [Equalizer Bars](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/equalizer-bars) ([▶️ Preview](https://youtube.com/shorts/V2jJo45w4aQ?si=ANl-XB1WChHgXuC_))
 
 ### 📝 Text Effects
 - [Gradient Text Flow](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/text-effects/gradient-text-flow)
