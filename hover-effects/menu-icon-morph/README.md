@@ -4,7 +4,7 @@ A beautiful CSS micro-animation project: **Menu Icon Morph**.
 
 # Preview
 
-[![Menu Icon Morph Preview](https://img.youtube.com/vi/      )](https://youtube.com/shorts/     )
+[![Menu Icon Morph Preview](https://img.youtube.com/vi/ev5VxHnMbE4/0.jpg)](https://youtube.com/shorts/ev5VxHnMbE4?si=EC87uHPhvwuG9rvF)
 
 *(Click the image to view the YouTube Short)*
 

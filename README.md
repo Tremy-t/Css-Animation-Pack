@@ -45,7 +45,7 @@ Browse the currently available animations by category below. Clicking on any pro
 
 ### 🖱️ Hover Effects
 - [Button Fill Sweep](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/hover-effects/button-fill-sweep)  ([▶️ Preview](https://youtube.com/shorts/KOt4ufVifIo?si=uPDociZEFxMpTmmK))
-- [Menu Icon Morph](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/hover-effects/menu-icon-morph)
+- [Menu Icon Morph](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/hover-effects/menu-icon-morph) ([▶️ Preview](https://youtube.com/shorts/ev5VxHnMbE4?si=EC87uHPhvwuG9rvF))
 - [Ripple Click](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/hover-effects/ripple-click) ([▶️ Preview](https://youtube.com/shorts/nDtzLSVK9iY?si=K-XU3zO4XgjjUYah))
 
 ### 🖼️ Borders
