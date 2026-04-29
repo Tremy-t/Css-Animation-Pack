@@ -4,9 +4,9 @@ A beautiful CSS micro-animation project: **Gradient Spinner**.
 
 # Preview
 
-[![Gradient Spinner Preview](https://img.youtube.com/vi/      )](https://youtube.com/shorts/     )
+[![Gradient Spinner Preview](https://img.youtube.com/vi/rCfF_l92cpo)](https://youtube.com/shorts/rCfF_l92cpo?si=xrbNnPz6dEWIWKsX)
 
-*(Click the image to view the YouTube Short)*
+*(Click the image to preview)*
 
 ## Structure
 - `index.html`: The HTML structure.
