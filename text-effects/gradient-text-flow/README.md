@@ -4,7 +4,7 @@ A beautiful CSS micro-animation project: **Gradient Text Flow**.
 
 # Preview
 
-[![Gradient Text Flow Preview](https://img.youtube.com/vi/      )](https://youtube.com/shorts/     )
+[![Gradient Text Flow Preview](https://img.youtube.com/vi/JKUKo57KDy4)](https://youtube.com/shorts/JKUKo57KDy4)
 
 *(Click the image to view the YouTube Short)*
 

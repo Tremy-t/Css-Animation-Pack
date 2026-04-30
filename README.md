@@ -38,7 +38,7 @@ Browse the currently available animations by category below. Clicking on any pro
 - [Equalizer Bars](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/equalizer-bars) ([▶️ Preview](https://youtube.com/shorts/V2jJo45w4aQ?si=ANl-XB1WChHgXuC_))
 
 ### 📝 Text Effects
-- [Gradient Text Flow](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/text-effects/gradient-text-flow)
+- [Gradient Text Flow](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/text-effects/gradient-text-flow) ([▶️ Preview](https://youtube.com/shorts/JKUKo57KDy4?si=BciE9gNwbImkCjuS))
 - [Glitch Text](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/text-effects/glitch-text)
 - [Letter Wave](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/text-effects/letter-wave)
 - [Text Reveal](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/text-effects/text-reveal)
