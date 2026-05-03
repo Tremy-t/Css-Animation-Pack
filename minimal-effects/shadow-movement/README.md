@@ -4,7 +4,7 @@ A beautiful CSS micro-animation project: **Shadow Movement**.
 
 # Preview
 
-[![Shadow Movement Preview](https://img.youtube.com/vi/gfM_PcbneBo.jpg)](https://youtube.com/shorts/gfM_PcbneBo?si=IFgS5UPl1dq7l25L)
+[![Shadow Movement Preview](https://img.youtube.com/vi/gfM_PcbneBo/0.jpg)](https://youtube.com/shorts/gfM_PcbneBo?si=IFgS5UPl1dq7l25L)
 
 *(Click the image to view the YouTube Short)*
 
