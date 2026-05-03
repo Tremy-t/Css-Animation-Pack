@@ -4,7 +4,7 @@ A beautiful CSS micro-animation project: **Glass Orb**.
 
 # Preview
 
-[![Glass Orb Preview](https://img.youtube.com/vi/5-F_fT47uyY)](https://youtube.com/shorts/5-F_fT47uyY?si=s-fek09t8mYvgqqf)
+[![Glass Orb Preview](https://img.youtube.com/vi/9N3CO23ttWnbfEv1)](https://youtube.com/shorts/5-F_fT47uyY?si=9N3CO23ttWnbfEv1)
 
 *(Click the image to view the YouTube Short)*
 

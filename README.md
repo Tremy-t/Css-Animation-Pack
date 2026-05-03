@@ -72,7 +72,7 @@ Browse the currently available animations by category below. Clicking on any pro
 ### ✨ Minimal Effects
 - [Breathing Dot](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/minimal-effects/breathing-dot)    ([▶️ Preview](https://youtube.com/shorts/OLVQ530hnds?si=F1pqB3riPiRXb6HG))
 - [Glass Orb](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/minimal-effects/glass-orb) ([▶️ Preview](https://youtube.com/shorts/5-F_fT47uyY?si=s-fek09t8mYvgqqf))
-- [Shadow Movement](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/minimal-effects/shadow-movement)
+- [Shadow Movement](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/minimal-effects/shadow-movement) ([▶️ Preview](https://youtube.com/shorts/gfM_PcbneBo?si=IFgS5UPl1dq7l25L))
 
 ## Getting Started
 
