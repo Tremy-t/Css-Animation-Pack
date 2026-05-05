@@ -31,8 +31,8 @@ Inside each category folder, you will find individual projects, each meticulousl
 Browse the currently available animations by category below. Clicking on any project will take you directly to its source code.
 
 ### 🔄 Loaders
-- [Infinity Loader](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/infinity-loader)
-- [Liquid Blob Loader](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/liquid-blob-loader)
+- [Infinity Loader](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/infinity-loader) ([▶️ Preview](https://youtube.com/shorts/GB10MLcVzDk?si=p08ySuffwMywON3v))
+- [Liquid Blob Loader](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/liquid-blob-loader) ([▶️ Preview](https://youtube.com/shorts/w7QP8ObenkI?si=G59j4M9x1XcNEpZk))
 - [Chasing Dots](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/chasing-dots) ([▶️ Preview](https://youtube.com/shorts/SPjLXQg8DT0?si=B6Ev-2pVEOm1CgwZ))
 - [Gradient Spinner](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/gradient-spinner) ([▶️ Preview](https://youtube.com/shorts/rCfF_l92cpo?si=xrbNnPz6dEWIWKsX))
 - [Equalizer Bars](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/loaders/equalizer-bars) ([▶️ Preview](https://youtube.com/shorts/V2jJo45w4aQ?si=ANl-XB1WChHgXuC_))

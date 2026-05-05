@@ -4,7 +4,7 @@ A beautiful CSS micro-animation project: **Infinity Loader**.
 
 # Preview
 
-[![Infinity Loader Preview](https://img.youtube.com/vi/      )](https://youtube.com/shorts/     )
+[![Infinity Loader Preview](https://img.youtube.com/vi/GB10MLcVzDk/0.jpg)](https://youtube.com/shorts/GB10MLcVzDk?si=p08ySuffwMywON3v)
 
 *(Click the image to view the YouTube Short)*
 
