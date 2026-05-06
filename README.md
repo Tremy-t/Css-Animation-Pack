@@ -40,7 +40,7 @@ Browse the currently available animations by category below. Clicking on any pro
 ### 📝 Text Effects
 - [Gradient Text Flow](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/text-effects/gradient-text-flow) ([▶️ Preview](https://youtube.com/shorts/JKUKo57KDy4?si=BciE9gNwbImkCjuS))
 - [Glitch Text](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/text-effects/glitch-text)
-- [Letter Wave](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/text-effects/letter-wave)
+- [Letter Wave](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/text-effects/letter-wave) ([▶️ Preview](https://youtube.com/shorts/qKML_26N3YE?si=6z0NgY1sHGQBPHLO))
 - [Text Reveal](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/text-effects/text-reveal) ([▶️ Preview](https://youtube.com/shorts/Zsq9xJM3jI8?si=rdRF0VGvMo6r1yLo))
 
 ### 🖱️ Hover Effects
