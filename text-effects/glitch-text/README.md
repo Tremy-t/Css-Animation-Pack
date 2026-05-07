@@ -4,7 +4,7 @@ A beautiful CSS micro-animation project: **Glitch Text**.
 
 # Preview
 
-[![Glitch Text Preview](https://img.youtube.com/vi/      )](https://youtube.com/shorts/     )
+[![Glitch Text Preview](https://img.youtube.com/vi/yJrNjfMoZuc/0.jpg)](https://youtube.com/shorts/yJrNjfMoZuc?si=dhnVSpO0LbLeMLCC)
 
 *(Click the image to view the YouTube Short)*
 
