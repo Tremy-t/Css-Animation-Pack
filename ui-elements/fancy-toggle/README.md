@@ -4,7 +4,7 @@ A beautiful CSS micro-animation project: **Fancy Toggle**.
 
 # Preview
 
-[![Fancy Toggle Preview](https://img.youtube.com/vi/      )](https://youtube.com/shorts/     )
+[![Fancy Toggle Preview](https://img.youtube.com/vi/5fjud-nmwYg/0.jpg)](https://youtube.com/shorts/5fjud-nmwYg?si=82UpmZ0PlIdWMIQE)
 
 *(Click the image to view the YouTube Short)*
 

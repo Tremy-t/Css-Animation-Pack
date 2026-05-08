@@ -66,7 +66,7 @@ Browse the currently available animations by category below. Clicking on any pro
 - [Infinite Scroll Cards](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/background-effects/infinite-scroll-cards) ([▶️ Preview](https://youtube.com/shorts/T3GZLNf1_4A?si=s2uXXd8dpzq6dZVI))
 
 ### 🎛️ UI Elements
-- [Fancy Toggle](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/ui-elements/fancy-toggle)
+- [Fancy Toggle](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/ui-elements/fancy-toggle) ([▶️ Preview](https://youtube.com/shorts/5fjud-nmwYg?si=82UpmZ0PlIdWMIQE))
 - [Skeleton Loader](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/ui-elements/skeleton-loader)
 
 ### ✨ Minimal Effects
