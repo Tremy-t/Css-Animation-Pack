@@ -67,7 +67,7 @@ Browse the currently available animations by category below. Clicking on any pro
 
 ### 🎛️ UI Elements
 - [Fancy Toggle](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/ui-elements/fancy-toggle) ([▶️ Preview](https://youtube.com/shorts/5fjud-nmwYg?si=82UpmZ0PlIdWMIQE))
-- [Skeleton Loader](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/ui-elements/skeleton-loader)
+- [Skeleton Loader](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/ui-elements/skeleton-loader) ([▶️ Preview](https://youtube.com/shorts/ONiy5v13gRs?si=0CZcgEwWmsZ-cd4e))
 
 ### ✨ Minimal Effects
 - [Breathing Dot](https://github.com/Tremy-t/Css-Animation-Pack/tree/main/minimal-effects/breathing-dot)    ([▶️ Preview](https://youtube.com/shorts/OLVQ530hnds?si=F1pqB3riPiRXb6HG))

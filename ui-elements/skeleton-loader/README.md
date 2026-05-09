@@ -4,7 +4,7 @@ A beautiful CSS micro-animation project: **Skeleton Loader**.
 
 # Preview
 
-[![Skeleton Loader Preview](https://img.youtube.com/vi/      )](https://youtube.com/shorts/     )
+[![Skeleton Loader Preview](https://img.youtube.com/vi/ONiy5v13gRs/0.jpg)](https://youtube.com/shorts/ONiy5v13gRs?si=0CZcgEwWmsZ-cd4e)
 
 *(Click the image to view the YouTube Short)*
 
